@@ -26,11 +26,11 @@ instructions_prompt = (
     "zostanie odrzucona.\n\n"
 )
 
-# Enter you OpenAI key here
+# Enter your OpenAI key here
 openai_api_key = "openai_api_key_here"
 openai_ai_model = "gpt-4o-mini"
 
-# Enter you Google API key here
+# Enter your Google API key here
 google_api_key = "google_api_key_here"
 google_ai_model = "gemini-1.5-flash"
 
