@@ -1,0 +1,517 @@
+[
+    {
+        "id": 1,
+        "question": "Jaki jest cel adopcji zwierzęcia?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Nie jestem pewny/a;",
+                "points": 0,
+                "id": "1_1"
+            },
+            {
+                "text": "Chcę zwierzę głównie dla rozrywki;",
+                "points": 1,
+                "id": "1_2"
+            },
+            {
+                "text": "Chcę wzbogacić życie swoje i bliskich dzięki opiece nad zwierzęciem;",
+                "points": 2,
+                "id": "1_3"
+            },
+            {
+                "text": "Chcę zwierzę jako przyjaciela i pełnoprawnego członka rodziny;",
+                "points": 3,
+                "id": "1_4"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Ile czasu dziennie planujesz spędzać ze zwierzęciem?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Mam mało czasu;",
+                "points": 0,
+                "id": "2_1"
+            },
+            {
+                "text": "Mam tylko tyle czasu, aby zaspokoić podstawowe potrzeby zwierzęcia;",
+                "points": 1,
+                "id": "2_2"
+            },
+            {
+                "text": "Mam tyle czasu, aby zapewnić zwierzęciu krótkie i częste interakcje w ciągu dnia;",
+                "points": 2,
+                "id": "2_3"
+            },
+            {
+                "text": "Mam dużo czasu, mogę spędzać ze zwierzęciem całe dnie;",
+                "points": 3,
+                "id": "2_4"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Jak planujesz zorganizować opiekę nad zwierzęciem podczas swojej nieobecności (np. dłuższego wyjazdu)?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Liczę, że zwierzę samo sobie poradzi;",
+                "points": 0,
+                "id": "3_1"
+            },
+            {
+                "text": "Skorzystam z pomocy osoby spoza mojego bliskiego otoczenia (np. sąsiada);",
+                "points": 1,
+                "id": "3_2"
+            },
+            {
+                "text": "Poproszę o pomoc znajomego lub dalszą rodzinę;",
+                "points": 2,
+                "id": "3_3"
+            },
+            {
+                "text": "Zapewnię opiekę u zaufanej osoby (np. przyjaciela, rodziny) lub w hotelu dla zwierząt;",
+                "points": 3,
+                "id": "3_4"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Jakie masz doświadczenie z opieką nad zwierzętami?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Nie mam żadnego doświadczenia;",
+                "points": 0,
+                "id": "4_1"
+            },
+            {
+                "text": "Nie miałem/am nigdy zwierząt, ale dużo o tym czytałem/am;",
+                "points": 1,
+                "id": "4_2"
+            },
+            {
+                "text": "Miałem/am zwierzę krótko (mniej niż rok);",
+                "points": 2,
+                "id": "4_3"
+            },
+            {
+                "text": "Miałem/am zwierzę długo (więcej niż rok);",
+                "points": 3,
+                "id": "4_4"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Jak reagujesz na problematyczne zachowanie zwierzęcia (np. szkody materialne, hałas, obrażenia ciała)?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Nie akceptuję takiego zachowania, chcę oddać zwierzę do schroniska;",
+                "points": 0,
+                "id": "5_1"
+            },
+            {
+                "text": "Rozważam oddanie zwierzęcia do schroniska, jeśli takie sytuacje będą częste;",
+                "points": 1,
+                "id": "5_2"
+            },
+            {
+                "text": "Byłbym/byłabym zdenerwowany/a, ale akceptuję to;",
+                "points": 2,
+                "id": "5_3"
+            },
+            {
+                "text": "Podchodzę do sytuacji spokojnie, rozumiem, że to może się zdarzyć;",
+                "points": 3,
+                "id": "5_4"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Czy jesteś gotów/gotowa na ewentualne wizyty u weterynarza?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Nie jestem gotów/gotowa na wizyty u weterynarza;",
+                "points": 0,
+                "id": "6_1"
+            },
+            {
+                "text": "Jestem gotów/gotowa na wizytę u weterynarza, ale tylko w skrajnych przypadkach;",
+                "points": 1,
+                "id": "6_2"
+            },
+            {
+                "text": "Tak, jestem gotów/gotowa na regularne wizyty u weterynarza;",
+                "points": 2,
+                "id": "6_3"
+            },
+            {
+                "text": "Tak, dodatkowo znam podstawy pierwszej pomocy dla zwierząt i zastosuję je w razie potrzeby przed wizytą u weterynarza;",
+                "points": 3,
+                "id": "6_4"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Jak oceniasz dostosowanie swojego miejsca zamieszkania do potrzeb zwierzęcia pod względem bezpieczeństwa i wyposażenia?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Miejsce zamieszkania nie jest przystosowane do trzymania zwierzęcia;",
+                "points": 0,
+                "id": "7_1"
+            },
+            {
+                "text": "Miejsce zamieszkania wymaga wielu zmian, aby było odpowiednie dla zwierzęcia;",
+                "points": 1,
+                "id": "7_2"
+            },
+            {
+                "text": "Miejsce zamieszkania wymaga kilku zmian, aby było odpowiednie dla zwierzęcia;",
+                "points": 2,
+                "id": "7_3"
+            },
+            {
+                "text": "Miejsce zamieszkania jest dobrze przystosowane i bezpieczne dla zwierzęcia;",
+                "points": 3,
+                "id": "7_4"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Czy wszyscy domownicy zgadzają się na adopcję zwierzęcia?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Jedna lub więcej osób jest zdecydowanie przeciwko;",
+                "points": 0,
+                "id": "8_1"
+            },
+            {
+                "text": "Kilka osób jest niezdecydowanych, ale myślę, że ich przekonam;",
+                "points": 1,
+                "id": "8_2"
+            },
+            {
+                "text": "Jedna osoba ma wątpliwości, ale jest otwarta na dyskusję;",
+                "points": 2,
+                "id": "8_3"
+            },
+            {
+                "text": "Wszyscy są zgodni;",
+                "points": 3,
+                "id": "8_4"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Jak długo planujesz opiekować się zwierzęciem (weź pod uwagę trudne sytuacje życiowe)?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Nie mogę zobowiązać się do długotrwałej opieki nad zwierzęciem;",
+                "points": 0,
+                "id": "9_1"
+            },
+            {
+                "text": "Zamierzam opiekować się zwierzęciem przez pewien czas, ale nie wykluczam możliwości oddania go;",
+                "points": 1,
+                "id": "9_2"
+            },
+            {
+                "text": "Tak długo, jak będę mógł/mogła, chyba że własna sytuacja życiowa na to nie pozwoli;",
+                "points": 2,
+                "id": "9_3"
+            },
+            {
+                "text": "Do końca życia zwierzęcia, niezależnie od okoliczności;",
+                "points": 3,
+                "id": "9_4"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Jak oceniasz swoje możliwości finansowe związane z adopcją zwierzęcia?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Mam zbyt małe możliwości finansowe, aby zapewnić podstawowe potrzeby;",
+                "points": 0,
+                "id": "10_1"
+            },
+            {
+                "text": "Mam ograniczone możliwości finansowe, ale mogę zapewnić podstawowe potrzeby;",
+                "points": 1,
+                "id": "10_2"
+            },
+            {
+                "text": "Mam wystarczające możliwości finansowe, aby zadbać o dogodne warunki;",
+                "points": 2,
+                "id": "10_3"
+            },
+            {
+                "text": "Mam duże możliwości finansowe i mogę zapewnić również dodatkowe potrzeby (np. szkolenia, zabawki, specjalistyczna opieka);",
+                "points": 3,
+                "id": "10_4"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Czy Twoje miejsce zamieszkania zapewnia wystarczającą przestrzeń, aby zapewnić zwierzęciu komfortowe warunki życia?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Mam zbyt małą przestrzeń, aby zapewnić podstawowe warunki;",
+                "points": 0,
+                "id": "11_1"
+            },
+            {
+                "text": "Mam ograniczoną przestrzeń, ale mogę zapewnić podstawowe warunki;",
+                "points": 1,
+                "id": "11_2"
+            },
+            {
+                "text": "Mam wystarczającą przestrzeń, aby zapewnić dobre warunki;",
+                "points": 2,
+                "id": "11_3"
+            },
+            {
+                "text": "Mam dużą przestrzeń, aby zapewnić najlepsze warunki;",
+                "points": 3,
+                "id": "11_4"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Czy w Twoim miejscu zamieszkania są inne zwierzęta, które mogą wpłynąć na relację z adoptowanym zwierzęciem?",
+        "type": "pointed",
+        "answers": [
+            {
+                "text": "Tak, obecne zwierzęta mogą stanowić problem i obawiam się konfliktów;",
+                "points": 0,
+                "id": "12_1"
+            },
+            {
+                "text": "Tak, ale nie jestem pewien/pewna, czy to będzie problem;",
+                "points": 1,
+                "id": "12_2"
+            },
+            {
+                "text": "Nie posiadam innych zwierząt;",
+                "points": 2,
+                "id": "12_3"
+            },
+            {
+                "text": "Tak i mam pewność, że nie będzie konfliktów i że obecność innych zwierząt będzie miała pozytywny wpływ na nowe zwierzę;",
+                "points": 3,
+                "id": "12_4"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Wybierz zwierzę z listy, które najbardziej Ci odpowiada:",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Pies;",
+                "points": 0,
+                "id": "13_1"
+            },
+            {
+                "text": "Kot;",
+                "points": 0,
+                "id": "13_2"
+            },
+            {
+                "text": "Ryba;",
+                "points": 0,
+                "id": "13_3"
+            },
+            {
+                "text": "Ptak;",
+                "points": 0,
+                "id": "13_4"
+            },
+            {
+                "text": "Królik;",
+                "points": 0,
+                "id": "13_5"
+            },
+            {
+                "text": "Gryzoń;",
+                "points": 0,
+                "id": "13_6"
+            },
+            {
+                "text": "Gad;",
+                "points": 0,
+                "id": "13_7"
+            },
+            {
+                "text": "Owad;",
+                "points": 0,
+                "id": "13_8"
+            },
+            {
+                "text": "Pająk;",
+                "points": 0,
+                "id": "13_9"
+            },
+            {
+                "text": "Fretka;",
+                "points": 0,
+                "id": "13_10"
+            },
+            {
+                "text": "Jeż;",
+                "points": 0,
+                "id": "13_11"
+            },
+            {
+                "text": "Jest mi to obojętne;",
+                "points": 0,
+                "id": "13_12"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Mając do wyboru kota lub psa, które z tych zwierząt bardziej Ci odpowiada?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Kot;",
+                "points": 0,
+                "id": "14_1"
+            },
+            {
+                "text": "Jest mi to obojętne;",
+                "points": 0,
+                "id": "14_2"
+            },
+            {
+                "text": "Pies;",
+                "points": 0,
+                "id": "14_3"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Jakie są Twoje preferencje pod względem rasy zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę zwierzęta rasowe;",
+                "points": 0,
+                "id": "15_1"
+            },
+            {
+                "text": "Wolę zwierzęta nierasowe;",
+                "points": 0,
+                "id": "15_2"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Jakie są Twoje preferencje pod względem stanu zdrowia zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę zdrowe zwierzęta; nie jestem w stanie zaopiekować się chorym zwierzęciem;",
+                "points": 0,
+                "id": "16_1"
+            },
+            {
+                "text": "Jestem gotów/gotowa adoptować chore zwierzę, żeby mu pomóc;",
+                "points": 0,
+                "id": "16_2"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Jakie są Twoje preferencje pod względem wielkości zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę małe zwierzęta;",
+                "points": 0,
+                "id": "17_1"
+            },
+            {
+                "text": "Wolę duże zwierzęta;",
+                "points": 0,
+                "id": "17_2"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Jakie są Twoje preferencje pod względem wieku zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę młode zwierzęta (np. szczenięta, kocięta);",
+                "points": 0,
+                "id": "18_1"
+            },
+            {
+                "text": "Wolę dorosłe lub starsze zwierzęta;",
+                "points": 0,
+                "id": "18_2"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Jakie są Twoje preferencje pod względem płci zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę samicę;",
+                "points": 0,
+                "id": "19_1"
+            },
+            {
+                "text": "Wolę samca;",
+                "points": 0,
+                "id": "19_2"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Jakie są Twoje preferencje pod względem poziomu aktywności zwierzęcia?",
+        "type": "preference",
+        "answers": [
+            {
+                "text": "Wolę zwierzęta spokojne i mało aktywne;",
+                "points": 0,
+                "id": "20_1"
+            },
+            {
+                "text": "Wolę zwierzęta energiczne i bardzo aktywne;",
+                "points": 0,
+                "id": "20_2"
+            }
+        ]
+    }
+]
