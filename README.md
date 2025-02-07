@@ -38,6 +38,4 @@ The "photos" folder contains example screenshots and created plots.
 
 **To use OpenAI Web API or Google Web API adoption survey modes in the *main.py* script you need to insert your keys into *openai_api_key* and *google_api_key* variables inside said script**
 
-
-**To use the OpenAI Web API or Google Web API adoption survey modes in the *main.py* script, you need to insert your API keys into the *openai_api_key* and *google_api_key* variables within the script.**
 ---
