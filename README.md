@@ -17,7 +17,7 @@ The "biased" folder contains output and results from 3 modes  using *questions_b
 The "neutral" folder contains output and results from 3 modes  using *questions_neutral.json* qeustions set.
 The "photos" folder contains example screenshots and created plots.
 
-***Due to a slight mistake, questions 13. and 14. within their respective JSON files has been swapped. This slight inconvenience doesn't impact the data nor makes the study erroneous, it just requires extra work to swap the data for plots, tables and so on.***
+***Due to a slight mistake, questions 13. and 14. within their respective JSON files have been swapped. This slight inconvenience doesn't impact the data nor makes the study erroneous, it just requires extra work to swap the data for plots, tables and so on.***
 
 ---
 
