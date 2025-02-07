@@ -6,7 +6,7 @@
 
 The article examines the capabilities of language models in the context of simulating animal adoption predispositions. Artificial intelligence, especially chatbots, play an important role in various industries, improving efficiency and automating decision-making processes. To evaluate their capabilities, an experiment was conducted in which language models answered 20 survey questions about animal adoption. The questions were randomly arranged and had unique identifiers. The results obtained from the models were compared to each other and contrasted with the results of the random selection. The study not only assessed the consistency and accuracy of the models' answers, but also highlighted potential algorithmic biases and the impact of how the questions were formulated on the results. It was discovered that some models showed clear preference biases, which could have important implications for their future use in decision-making processes. The source code alongside research results is available on the GitHub platform.
 
-**Keywords:** *artificial intelligence, language models, AI bias, Web API, AI advisors, LMM, API, GPT-4o-Mini, Gemini-1.5-Flash, GPT, Gemini*
+**Keywords:** *artificial intelligence, language models, AI bias, Web API, AI advisors, LMM, API, GPT-4o-Mini, Gemini-1.5-Flash, GPT, Gemini.*
 
 ---
 
